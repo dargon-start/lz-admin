@@ -1,4 +1,4 @@
-import LayoutHeader from "@lz/layout-ui"
+import {LayoutHeader} from "@lz/layout-ui"
 
 export default function Home() {
   return (

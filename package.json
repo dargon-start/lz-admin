@@ -1,0 +1,12 @@
+{
+  "name": "lz-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:next":"pnpm -F @lz/next-antd run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
